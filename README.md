@@ -19,7 +19,10 @@ Curated list of projects inherents to contact tracing
     * [Blogs](#blogs)
 * 🎓 [Theory](#theory)
   * [Whitepapers](#whitepapers)
+  * [Models](#models)
 * 💾 [Softwares](#softwares)
+  * [Libraries](#libraries)
+  * [Apps](#apps)
 
 
 ## 📚 Resources
@@ -29,12 +32,29 @@ Curated list of projects inherents to contact tracing
 **[🔝 back to top](#contents)**
 ***
 
-## 🎓 [Theory](#theory)
+## 🎓 Theory
+### Specifications
+
+* [Decentralized Privacy-Preserving Proximity Tracing](https://github.com/DP-3T/documents)
+* [Specification and reference implementation of the TCN Protocol for decentralized, privacy-preserving contact tracing](https://github.com/TCNCoalition/TCN)
+* [Apple|Google Privacy-Preserving Contact Tracing](https://www.apple.com/covid19/contacttracing/)
+
+### Models
+  * [Models of SEIRS epidemic dynamics with extensions, including network-structured populations, testing, contact tracing, and social distancing](https://github.com/ryansmcgee/seirsplus)
+
 ### Whitepapers
+  * [Quantifying dynamics of SARS-CoV-2 transmission suggests that epidemic control and avoidance is feasible through instantaneous digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
+  * [Decentralized Privacy-Preserving Proximity Tracing](https://github.com/DP-3T/documents/blob/master/DP3T%20White%20Paper.pdf)
 **[🔝 back to top](#contents)**
 ***
 
 ## 💾 Softwares
+
+### Libraries
+  * (Objective-C header and synthesized Swift interface for Apple & Google's Contact Tracing Framework)[https://github.com/BDI-pathogens/covid-19_instant_tracing]
+
+### Apps
+
 
 **[🔝 back to top](#contents)**
 ***
