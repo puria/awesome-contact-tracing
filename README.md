@@ -13,29 +13,22 @@ Curated list of projects inherents to contact tracing
 
 # Contents
 
-* 📚 [Resources](#resources)
-    * [Tutorials](#tutorials)
-    * [Books](#books)
-    * [Blogs](#blogs)
 * 🎓 [Theory](#theory)
   * [Whitepapers](#whitepapers)
   * [Models](#models)
 * 💾 [Softwares](#softwares)
   * [Libraries](#libraries)
+  * [Embedded](#embedded)
   * [Apps](#apps)
+* 📚 [Resources](#resources)
+    * [Articles](#articles)
 
-
-## 📚 Resources
-### Tutorials
-### Books
-### Blogs
-**[🔝 back to top](#contents)**
-***
 
 ## 🎓 Theory
 ### Specifications
 
 * [Decentralized Privacy-Preserving Proximity Tracing](https://github.com/DP-3T/documents)
+* [PACT: Private Automated Contact Tracing](https://pact.mit.edu/)
 * [Specification and reference implementation of the TCN Protocol for decentralized, privacy-preserving contact tracing](https://github.com/TCNCoalition/TCN)
 * [Apple|Google Privacy-Preserving Contact Tracing](https://www.apple.com/covid19/contacttracing/)
 
@@ -45,17 +38,33 @@ Curated list of projects inherents to contact tracing
 ### Whitepapers
   * [Quantifying dynamics of SARS-CoV-2 transmission suggests that epidemic control and avoidance is feasible through instantaneous digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
   * [Decentralized Privacy-Preserving Proximity Tracing](https://github.com/DP-3T/documents/blob/master/DP3T%20White%20Paper.pdf)
+  * [The PACT protocol specification](https://pact.mit.edu/wp-content/uploads/2020/04/The-PACT-protocol-specification-ver-0.1.pdf)
+  * [Privacy Preserving Contact Tracer](https://github.com/TracingWithPrivacy/paper/blob/master/pp-contact-tracer.pdf)
+  * [Analysis of DP3T Between Scylla and Charybdis](https://eprint.iacr.org/2020/399.pdf)
+
 **[🔝 back to top](#contents)**
 ***
 
 ## 💾 Softwares
 
 ### Libraries
-  * (Objective-C header and synthesized Swift interface for Apple & Google's Contact Tracing Framework)[https://github.com/BDI-pathogens/covid-19_instant_tracing]
+  * [Objective-C header and synthesized Swift interface for Apple & Google's Contact Tracing Framework](https://github.com/BDI-pathogens/covid-19_instant_tracing)
+
+### Embedded
+  * [DECODE Proximity embedded](https://github.com/dyne/decode-proximity-hw)
 
 ### Apps
 
 
+**[🔝 back to top](#contents)**
+***
+
+## 📚 Resources
+
+### Articles
+* [Decentralized Privacy-Preserving Proximity Tracing crypto made easy](https://medium.com/@jaromil/decentralized-privacy-preserving-proximity-tracing-cryptography-made-easy-af0a6ae48640)
+* [Why proximity-tracing is important and its integrity should be contextual](https://medium.com/@jaromil/why-proximity-tracing-is-important-and-its-integrity-should-be-contextual-2b46e5681a45)
+* [The Limits of Location Tracking in an Epidemic](https://www.aclu.org/report/aclu-white-paper-limits-location-tracking-epidemic)
 **[🔝 back to top](#contents)**
 ***
 
