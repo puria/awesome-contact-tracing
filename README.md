@@ -57,8 +57,10 @@ Curated list of projects inherents to contact tracing
  * [Demonstration of the Google/Apple Contact Tracing cryptography specification](https://github.com/readwritetools/contact-tracing)
 
 #### Android
+ * [DP3T-SDK for Android](https://github.com/DP-3T/dp3t-sdk-android)
 
 #### iOS
+ * [DP3T-SDK for iOS](https://github.com/DP-3T/dp3t-sdk-ios)
  * [Objective-C header and synthesized Swift interface for Apple & Google's Contact Tracing Framework](https://github.com/BDI-pathogens/covid-19_instant_tracing)
 
 #### Rust
@@ -72,6 +74,7 @@ Curated list of projects inherents to contact tracing
  * [safepaths](http://safepaths.mit.edu/)
  * [CoEpi](https://www.coepi.org/)
  * [Hansel](https://github.com/gethansel/hansel)
+ * [Rakning C-19](https://github.com/aranja/rakning-c19-app)
 
 
 **[🔝 back to top](#contents)**
@@ -83,6 +86,7 @@ Curated list of projects inherents to contact tracing
  * [Decentralized Privacy-Preserving Proximity Tracing crypto made easy](https://medium.com/@jaromil/decentralized-privacy-preserving-proximity-tracing-cryptography-made-easy-af0a6ae48640)
  * [Why proximity-tracing is important and its integrity should be contextual](https://medium.com/@jaromil/why-proximity-tracing-is-important-and-its-integrity-should-be-contextual-2b46e5681a45)
  * [The Limits of Location Tracking in an Epidemic](https://www.aclu.org/report/aclu-white-paper-limits-location-tracking-epidemic)
+ * [COVID-19 tracking- and tracingapp and healthapp NL Open Letter](http://allai.nl/wp-content/uploads/2020/04/Online-version-Letter-to-President-Rutte-Ministers-De-Jonge-Van-Rijn-Grapperhaus-re.-COVID-19-apps.pdf)
 
 
 ### Lists
