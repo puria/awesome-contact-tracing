@@ -22,6 +22,7 @@ In public health, contact tracing is the process of identification of persons wh
 - [PACT: Private Automated Contact Tracing](https://pact.mit.edu/)
 - [Specification and reference implementation of the TCN Protocol for decentralized, privacy-preserving contact tracing](https://github.com/TCNCoalition/TCN)
 - [Apple|Google Privacy-Preserving Contact Tracing](https://www.apple.com/covid19/contacttracing/)
+- [ROBERT ROBust and privacy-presERving proximity Tracing protocol](https://github.com/ROBERT-proximity-tracing/documents)
 
 ### Models
 - [Models of SEIRS epidemic dynamics with extensions, including network-structured populations, testing, contact tracing, and social distancing](https://github.com/ryansmcgee/seirsplus)
